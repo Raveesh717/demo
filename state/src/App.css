@@ -1,0 +1,8 @@
+.home {
+    min-height: 100vh;
+    background-color: rgb(176, 216, 240);
+    color: rgb(73, 31, 172);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
